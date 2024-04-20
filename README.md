@@ -24,3 +24,9 @@ nltk>=3.6.4
   pip install numpy
   pip install --upgrade nltk
 
+make a folder for pretrain in opennre & install bert and glove from pretrain/OpenNRE
+make a folder for benmark and install wiki80 or anyone you like
+
+place r2.ipynb in OpenNRE and run
+
+
